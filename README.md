@@ -1,6 +1,7 @@
 # pycloj-sklearn
 
-FIXME: description
+pycloj-sklearn is a bridged python (scikit-learn)[https://scikit-learn.org/stable/] package using libpython-clj.
+The project was generated using (pycloj-exporter) [https://github.com/pycloj/pycloj-exporter] tool. 
 
 ## Installation
 
